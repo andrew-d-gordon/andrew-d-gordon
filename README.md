@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm [Andy!](https://andrewgordon.herokuapp.com) 
 
 <a href="https://www.linkedin.com/in/andrew7gordon/">
-  <img align="left" alt="Andrew Gordon's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Andrew Gordon's LinkedIn" width="22px" src="https://github.com/andrew-d-gordon/andrew-d-gordon/blob/main/linkedin-logo-png-2026.png?raw=true" />
 </a>
 
 </br >
