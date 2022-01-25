@@ -6,7 +6,7 @@
 
 </br >
 
-I am Full Stack Developer from the Bay Area, California. I recently graduated from University of California, Santa Cruz in June 2021 with a Bachelors of Science in Computer Science 💻 and a minor in Electronic Music 🎵. I am currently working as a Freelance Full Stack developer and am searching for Full Stack and Backend developer positions starting in Winter 2022. I am interested in the intersections of Computer Science and Audio as well as Software Solutions for Finance, Big Data and E-Commerce.
+I am Full Stack Developer from the Bay Area, California. I recently graduated from University of California, Santa Cruz in June 2021 with a Bachelor of Science in Computer Science 💻 and a minor in Electronic Music 🎵. I am currently working as a Freelance Full Stack developer and am searching for Full Stack and Backend developer positions starting in Winter 2022. I am interested in the intersections of Computer Science and Audio as well as Software Solutions for Finance, Big Data and E-Commerce.
   
 **Personal Stuff:**
 
