@@ -10,9 +10,9 @@ I am a Software Engineer from the San Francisco Bay Area. As of May 2022, I have
   
 **Personal Stuff:**
 
-- 👨🏽‍💻 I’m currently working on [Alpha Return](https://github.com/andrew-d-gordon/alpha-return) and [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner),
+- 👨🏽‍💻 I most recently worked on [Alpha Return](https://github.com/andrew-d-gordon/alpha-return) and [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner),
 - 🌱 I’m currently learning React.js and GraphQL,
-- 👯 I’m looking to collaborate on [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner) 🤝,
+- 👯 I’m looking to eventually collaborate on [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner) 🤝,
 - 💬 Ask me about anything, I am happy to help,
 - 📫 How to reach me: andrewdgordon285@gmail.com,
 - 📝[Resume](https://drive.google.com/file/d/1EFFwLD3w5FOt_21VWLJINP1SNHPuYUm5/view?usp=sharing)
