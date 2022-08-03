@@ -6,7 +6,7 @@
 
 </br >
 
-I am Full Stack Developer from the Bay Area, California. I recently graduated from University of California, Santa Cruz in June 2021 with a Bachelor of Science in Computer Science and a minor in Electronic Music 💻 🎵. I am currently working as a Freelance Full Stack developer and am searching for Full Stack and Backend developer positions starting in Winter 2022. I am interested in the intersections of Computer Science and Audio as well as Software Solutions for Finance, Big Data and E-Commerce.
+I am a Software Engineer from the San Francisco Bay Area. As of May 2022, I have started as a Software Engineer at Google in Geo SRE. I am working to support Google Maps and Location services. I graduated from University of California, Santa Cruz in June 2021 with a Bachelor of Science in Computer Science and a minor in Electronic Music 💻 🎵.
   
 **Personal Stuff:**
 
@@ -14,8 +14,8 @@ I am Full Stack Developer from the Bay Area, California. I recently graduated fr
 - 🌱 I’m currently learning React.js and GraphQL,
 - 👯 I’m looking to collaborate on [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner) 🤝,
 - 💬 Ask me about anything, I am happy to help,
-- 📫 How to reach me: andgordo@ucsc.edu,
-- 📝[Resume](https://drive.google.com/file/d/1J5nL75zPQWWu6NgvNg9zI0Ac6jPHGk-Y/view?usp=sharing)
+- 📫 How to reach me: andrewdgordon285@gmail.com,
+- 📝[Resume](https://drive.google.com/file/d/1EFFwLD3w5FOt_21VWLJINP1SNHPuYUm5/view?usp=sharing)
 
 **Languages and Tools:**  
 
