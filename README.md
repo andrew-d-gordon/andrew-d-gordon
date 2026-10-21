@@ -6,16 +6,13 @@
 
 </br >
 
-I am a Software Engineer from the San Francisco Bay Area. As of May 2022, I have started as a Software Engineer at Google in Geo SRE. I am working to support Google Maps and Location services. I graduated from University of California, Santa Cruz in June 2021 with a Bachelor of Science in Computer Science and a minor in Electronic Music 💻 🎵.
-  
-**Personal Stuff:**
+I'm a Senior SWE at Google in SF working on SRE AI Operations. I started at Google in May 2022, and then spent 3.5 years trying to keep Google Maps fast, reliable, and efficient. I also got to co-lead Detectr starting in late 2024, Google's AI outage-detection platform, which is detailed in [this whitepaper from Google SRE](https://sre.google/resources/practices-and-processes/ai-engineering-reliable-operations/). The past year has primarily been evaluating and building AI systems to respond to outages. Oh, I also got to contribute to the Capacity Planning chapter of the new edition of the [Google SRE Book](https://www.oreilly.com/library/view/site-reliability-engineering/9798341607675/).
 
-- 👨🏽‍💻 I most recently worked on [Alpha Return](https://github.com/andrew-d-gordon/alpha-return) and [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner),
-- 🌱 I’m currently learning React.js and GraphQL,
-- 👯 I’m looking to eventually collaborate on [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner) 🤝,
-- 💬 Ask me about anything, I am happy to help,
-- 📫 How to reach me: andrewdgordon285@gmail.com,
-- 📝[Resume](https://drive.google.com/file/d/1EFFwLD3w5FOt_21VWLJINP1SNHPuYUm5/view?usp=sharing)
+Pre-Google days:
+  - I graduated from University of California, Santa Cruz in June 2021 with a Bachelor of Science in Computer Science and a minor in Electronic Music 💻 🎵.
+  - 👨🏽‍💻 I most recently worked on [Alpha Return](https://github.com/andrew-d-gordon/alpha-return) and [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner),
+  - 👯 I’m looking to eventually collaborate on [Poly NS Tuner](https://github.com/andrew-d-gordon/Poly-NS-Tuner) 🤝,
+  - 📫 How to reach me: andrewdgordon285@gmail.com,
 
 **Languages and Tools:**  
 
@@ -32,11 +29,7 @@ I am a Software Engineer from the San Francisco Bay Area. As of May 2022, I have
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 
-
-![Andy's github stats](https://github-readme-stats.vercel.app/api?username=andrew-d-gordon&show_icons=true&hide_border=true)
-
 ⭐️ From [andrew-d-gordon](https://github.com/andrew-d-gordon)
-
 
 <a href="https://github.com/andrew-d-gordon/alpha-return">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=andrew-d-gordon&repo=alpha-return" />
